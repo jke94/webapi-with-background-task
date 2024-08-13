@@ -2,6 +2,10 @@
 
 Web api consuming cache layer updated by background service.
 
+- NOTE: Under development.
+
+## A. Diagram.
+
 ```mermaid
 flowchart  LR
 
